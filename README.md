@@ -1,3 +1,1 @@
-# iplookup
-a tool for looking up an ip or ips
-simple to run just open prompt in the same dictionary and just run it {py iplook.py} 
+A simple tool for looking up Ips just run it in prompt thats open to the dictionary 
